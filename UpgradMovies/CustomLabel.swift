@@ -2,8 +2,8 @@
 //  CustomLabel.swift
 //  Harmony
 //
-//  Created by Rahul Gupta on 07/05/16.
-//  Copyright © 2016 Rahul Gupta. All rights reserved.
+//  Created by Rahul Gupta on 10/10/16.
+//  Copyright © 2016 SRS. All rights reserved.
 //
 
 import UIKit

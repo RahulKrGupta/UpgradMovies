@@ -2,7 +2,7 @@
 //  MovieDetailsViewController.swift
 //  UpgradMovies
 //
-//  Created by Rahul Gupta on 01/10/16.
+//  Created by Rahul Gupta on 10/10/16.
 //  Copyright © 2016 SRS. All rights reserved.
 //
 
